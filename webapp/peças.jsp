@@ -12,7 +12,6 @@
 <body>
 	<div>
 		<a href="cadastro.jsp"><button>Cadastrar Peça</button></a>
-	    <a href="editar.jsp"><button>Buscar Peça </button></a>
 	</div>
 	<table>
 		<tr>
